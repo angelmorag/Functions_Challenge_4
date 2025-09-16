@@ -87,4 +87,5 @@ char determineLetterGrade(const double average) {
 	else if (average >= 70) return 'C';
 	else if (average >= 60) return 'D';
 	else return 'F';
+}
 	// Function definitions
